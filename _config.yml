@@ -1,16 +1,16 @@
 # Site settings
-title:'Deepak RB'
-description: "Learn and build"
+title: Lorem Ipsum - Web Developer
+description: "A blog about lorem ipsum ..."
 baseurl: '/MyBlog' # for test: remove string '/space-jekyll-templa' to ''
 url: "http://deepakrajendra.github.io" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https:yourusername.githu.io'
 # User settings
 username: Deepak RB
-user_title: .Net Developer
+user_title: Lorem Ipsum - FrontEnd
 email: deepakrbabudev@gmail.com
-twitter_username: deepakrajendra
+twitter_username: loremipsum
 github_username:  deepakrajendra
-gplus_username:  deepakrbabu
-disqus_username: deepak
+gplus_username:  loremipsum
+disqus_username: loremipsum
 
 # Build settings
 markdown: kramdown
@@ -39,11 +39,11 @@ links:
     url: /about
 # projects in header index
 projects:
-  - name: Movie Wiki using Angular2
-    url: https://github.com/deepakrajendra/Angular2-MovieWiki
-  - name: Weather app using Ionic 2
-    url: https://github.com/deepakrajendra/WeatherApp
-  - name: Billing system using AngularJS and Web API
-    url: https://github.com/deepakrajendra/Billing-System-using-AngularJS
+  - name: asciilang
+    url: https://github.com/victorvoid/asciilang
+  - name: vim-frontend
+    url: https://github.com/victorvoid/vim-frontend
+  - name: generator-capybara
+    url: https://github.com/victorvoid/generator-capybara 
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
