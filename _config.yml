@@ -2,7 +2,7 @@
 title: Lorem Ipsum - Web Developer
 description: "A blog about lorem ipsum ..."
 baseurl: '/MyBlog' # for test: remove string '/space-jekyll-templa' to ''
-url: "http://deepakrajendra.github.io" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https:yourusername.githu.io'
+url: "http://deepakrajendra.github.io/MyBlog" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https:yourusername.githu.io'
 # User settings
 username: Deepak RB
 user_title: Lorem Ipsum - FrontEnd
