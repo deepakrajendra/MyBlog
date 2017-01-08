@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Generics! A true super hero.
 
@@ -145,4 +145,3 @@ So, here we have a single Generic class that can be used to encapsulate all the 
 ### Whats coming Up?
 
 In the next article we will be playing around with different features of generics and different Generic collections available in C#.
-
