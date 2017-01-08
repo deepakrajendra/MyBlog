@@ -7,7 +7,7 @@ published: false
 
 Before we dive into the concept of Generic lets have a look at what it means as per the dictionary.
 
-**generic:** characteristic of or relating to a class or group of things; not specific.
+**Generic:** characteristic of or relating to a class or group of things; not specific.
 
 **synonyms:**	general, common 
 
@@ -133,7 +133,19 @@ ____
 2. public void Add(T value)     // T is replaced by the type of value passed to the class.
 3. GenericLibrary<Book> library = new GenericLibrary<Book>();  // this object takes the type book.
 
-![cmd output]({{site.baseurl}}/_posts/cmd.png)![cmd.png]({{site.baseurl}}/_posts/cmd.png)
+![cmd1.png]({{site.baseurl}}/_posts/cmd1.png)
+
+
+So, here we have a single Generic class that can be used to encapsulate all the common functionalities irrespective of the types( value or reference).
+
+### Summary
+
+1. We have learned the reason why the concept of Generics came into existence.
+2. How a generic class is implemented.
+
+### Whats coming Up?
+
+In the next article we will be playing around with different features of generics and different Generic collections available in C#.
 
 
 
