@@ -1,11 +1,11 @@
 # Site settings
-title: Lorem Ipsum - Web Developer
-description: "A blog about lorem ipsum ..."
+title: Learn With Me
+description: "My space to share Knowledge"
 baseurl: '/MyBlog' # for test: remove string '/space-jekyll-templa' to ''
 url: "http://deepakrajendra.github.io/MyBlog" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https:yourusername.githu.io'
 # User settings
 username: Deepak RB
-user_title: Lorem Ipsum - FrontEnd
+user_title: Deepak
 email: deepakrbabudev@gmail.com
 twitter_username: loremipsum
 github_username:  deepakrajendra
