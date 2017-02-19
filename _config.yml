@@ -40,9 +40,9 @@ links:
 # projects in header index
 projects:
   - name: weatherHere-ionic2
-    url:http://weatherhere.surge.sh
+    url:http://weatherhere.surge.sh/
   - name: movieWiki-angular2
-    url: http://moviewiki.surge.sh
+    url: http://moviewiki.surge.sh/
   - name: billing-system-using-angularJS
     url: https://github.com/deepakrajendra/Billing-System-using-AngularJS 
 # exclude my node related stuff
