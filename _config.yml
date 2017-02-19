@@ -40,7 +40,7 @@ links:
 # projects in header index
 projects:
    - name: WeatherHere
-     url: https://github.com/victorvoid/asciilang
+     url: http://weatherhere.surge.sh/
    - name: MovieWiki
      url: https://github.com/victorvoid/vim-frontend
    - name: BillingSystem Using AngularJS
