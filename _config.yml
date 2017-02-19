@@ -41,9 +41,9 @@ links:
 projects:
    - name: WeatherHere
      url: https://github.com/victorvoid/asciilang
-   - name: vim-frontend
+   - name: MovieWiki
      url: https://github.com/victorvoid/vim-frontend
-   - name: generator-capybara
+   - name: BillingSystem Using AngularJS
      url: https://github.com/victorvoid/generator-capybara 
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
