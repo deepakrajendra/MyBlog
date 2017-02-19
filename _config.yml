@@ -44,6 +44,6 @@ projects:
    - name: Movie Wiki
      url: http://moviewiki.surge.sh/
    - name: Billing System Using AngularJS
-     url: https://github.com/victorvoid/generator-capybara 
+     url: https://github.com/deepakrajendra/Billing-System-using-AngularJS
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
