@@ -39,7 +39,7 @@ links:
     url: /about
 # projects in header index
 projects:
-   - name: asciilang
+   - name: WeatherHere
      url: https://github.com/victorvoid/asciilang
    - name: vim-frontend
      url: https://github.com/victorvoid/vim-frontend
