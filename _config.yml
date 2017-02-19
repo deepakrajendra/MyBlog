@@ -39,11 +39,11 @@ links:
     url: /about
 # projects in header index
 projects:
-  - name: WeatherHere-(Ionic 2)
+  - name: weatherHere-ionic2
     url:http://weatherhere.surge.sh
-  - name: MovieWiki-(Angular2)
+  - name: movieWiki-angular2
     url: http://moviewiki.surge.sh
-  - name: Billing-System-using-AngularJS
+  - name: billing-system-using-angularJS
     url: https://github.com/deepakrajendra/Billing-System-using-AngularJS 
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
