@@ -39,11 +39,11 @@ links:
     url: /about
 # projects in header index
 projects:
-  - name: asciilang
-    url: https://github.com/victorvoid/asciilang
-  - name: vim-frontend
-    url: https://github.com/victorvoid/vim-frontend
-  - name: generator-capybara
-    url: https://github.com/victorvoid/generator-capybara 
+  - name: WeatherHere (Ionic 2)
+    url:http://weatherhere.surge.sh
+  - name: MovieWiki
+    url: http://moviewiki.surge.sh
+  - name: Billing System using AngularJS
+    url: https://github.com/deepakrajendra/Billing-System-using-AngularJS 
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
