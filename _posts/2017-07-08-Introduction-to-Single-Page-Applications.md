@@ -6,7 +6,7 @@ tags:
   - mongodb
 categories:
   - World Of Angular
-published: false
+published: true
 ---
 Lets start of with what Angular is: 
 **Angular is a leading JavaScript framework for building Single Page Applications.**
