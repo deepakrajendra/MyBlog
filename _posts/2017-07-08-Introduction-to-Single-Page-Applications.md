@@ -9,7 +9,7 @@ categories:
 published: true
 ---
 Lets start of with what Angular is: 
-**Angular is a leading JavaScript framework for building Single Page Applications.**
+**Angular is a leading JavaScript framework for building Single Page Applications.** 
 
 ##  So now what is a Single Page Application or SPA?
 
