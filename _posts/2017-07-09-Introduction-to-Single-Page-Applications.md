@@ -27,6 +27,7 @@ In a standard web application, when you click on a link, the entire page is relo
 Lets have a look at some of its advantages over conventional MPAs.
 
 **1. SPA is fast! :** Most resources(HTML+CSS+JS) are only loaded once throughout the life span of the application, meaning only the data is transmitted back and forth.
+
 **2. Caching :** SPA can cache local storage effectively and works even offline. This is a core feature of a Progressive Web App.
 
 ### Now lets look at its advantages in a developer's prespective :
