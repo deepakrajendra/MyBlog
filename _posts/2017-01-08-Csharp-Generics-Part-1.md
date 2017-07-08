@@ -8,8 +8,6 @@ image: ''
 date:   2017-01-08 00:06:31
 tags:
 - C#
--Generics
--Collection
 description: ''
 categories:
 - Learn C# 
