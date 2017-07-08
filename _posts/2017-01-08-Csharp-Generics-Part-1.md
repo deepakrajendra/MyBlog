@@ -1,6 +1,20 @@
 ---
 published: true
 ---
+---
+layout: post
+title:  "Csharp Generics Part 1"
+image: ''
+date:   2017-01-08 00:06:31
+tags:
+- C#
+-Generics
+-Collection
+description: ''
+categories:
+- Learn C# 
+---
+
 ## Generics! A true super hero.
 
 Before we dive into the concept of Generic lets have a look at what it means as per the dictionary.
