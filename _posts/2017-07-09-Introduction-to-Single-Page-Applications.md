@@ -3,7 +3,7 @@ layout: post
 title: Introduction to Single Page Applications
 date: 2017-07-09
 tags:
-  - Angular4
+  -Angular4
   -SPA
   -Singlepageapplication
 categories:
