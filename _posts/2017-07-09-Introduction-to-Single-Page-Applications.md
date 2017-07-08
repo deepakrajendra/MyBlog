@@ -1,25 +1,26 @@
 ---
 layout: post
 title: Introduction to Single Page Applications
-date: 2017-07-09
-tags:
-  -Angular4
-  -SPA
-  -Singlepageapplication
+date: 2017-07-09T00:00:00.000Z
+tags: '-Angular4 -SPA -Singlepageapplication'
 categories:
   - World Of Angular
 published: true
+author: Deepak
+description: Understanding what a single page application is.
 ---
+
+
 Lets start of with what Angular is: 
+
 **Angular is a leading JavaScript framework for building Single Page Applications.** 
 
-##  So now what is a Single Page Application or SPA?
+### So now what is a Single Page Application or SPA?
 
-In a standard web application, when you click on a link, the entire page is reloaded. So, a request is sent to the server and we get the response with the current page replaced by another. Therefore, these kind of applications are called** Multiple Page Applications.**
+In a standard web application, when you click on a link, the entire page is reloaded. So, a request is sent to the server and we get the response with the current page replaced by another. Therefore, these kind of applications are called **Multiple Page Applications.**
 
 > In a SPA, instead of loading the whole page we replace the content part of the page with another, ie instead of hitting the server for link click, we replace the page using JS within the browser.
 
-![]({{site.baseurl}}/https://tests4geeks.com/blog/wp-content/uploads/2015/10/ngspa_740_210.gif)
 
 **OK so now what difference does a SPA make?**
 
@@ -27,7 +28,7 @@ Lets have a look at some of its advantages over conventional MPAs.
 
 **1. SPA is fast! :** Most resources(HTML+CSS+JS) are only loaded once throughout the life span of the application, meaning only the data is transmitted back and forth.
 
-**2. Caching : ** SPA can cache local storage effectively and works even offline. This is a core feature of a Progressive Web App.
+**2. Caching :** SPA can cache local storage effectively and works even offline. This is a core feature of a Progressive Web App.
 
 **Now lets look at its advantages in a developer's prespective :**
 
