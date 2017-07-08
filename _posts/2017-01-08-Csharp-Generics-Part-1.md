@@ -1,6 +1,4 @@
-
 ---
-published: true
 layout: post
 title:  "Csharp Generics Part 1"
 image: ''
